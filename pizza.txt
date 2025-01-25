@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+pizata e slay 
+=======
 pizata e tupa
+>>>>>>> 809699dd91206ac3e5e103b6b0bd9f701d8f0895
